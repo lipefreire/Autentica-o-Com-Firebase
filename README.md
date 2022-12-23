@@ -4,7 +4,7 @@
 
   <h2 id="sobre"> 📋 Informações do Projeto</h2>
 
-Aplicativos desenvolvido para a disciplina de Dispositivos Moveis.
+Aplicação desenvolvida como projeto principal da disciplina de Dispositivos Móveis do 5º Período do curso de Sistemas Para Internet.
 
 <h2 id="layout"> 🎨  Layout </h2>
 
